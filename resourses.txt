@@ -1,0 +1,27 @@
+https://github.com/astro/node-expat
+https://www.npmjs.com/package/body-parser
+https://github.com/substack/stream-handbook
+https://nodejs.org/api/stream.html
+https://www.reddit.com/.rss
+
+
+
+http://mfranc.com/node-js/node-js-simple-web-server-with-express/
+https://scotch.io/tutorials/use-expressjs-to-get-url-and-post-parameters
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://www.sitepoint.com/basics-node-js-streams/
+https://codeforgeek.com/2014/09/handle-get-post-request-express-4/
+
+
+
+rssres = http.get(
+rssres.pipe(xml).pipe(res)
+
+transformable stream
+
+
+
+biblioteki za xml
+- sax ... - 
+- libxml - 
+- expat - 
